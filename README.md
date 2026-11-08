@@ -10,7 +10,7 @@
 
 **Institution:** SRM Institute of Science and Technology
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/drone_spraying_nsga2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niveditha-28/drone_spraying_nsga2/blob/main/drone_spraying_nsga2.ipynb)
 
 ---
 
