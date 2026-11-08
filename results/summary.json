@@ -1,0 +1,33 @@
+{
+  "zones": 35,
+  "evaluations": 200000,
+  "runtime_s": 75.7,
+  "pareto_size": 111,
+  "hypervolume_nsga2": 0.0601,
+  "hypervolume_random": 0.0056,
+  "recommended": {
+    "energy_Wh": 1624.6,
+    "weighted_delay_s": 795.6,
+    "mission_time_s": 1750.3
+  },
+  "lawnmower": {
+    "energy_Wh": 1630.8,
+    "weighted_delay_s": 916.9,
+    "mission_time_s": 1825.4
+  },
+  "greedy": {
+    "energy_Wh": 1712.5,
+    "weighted_delay_s": 960.9,
+    "mission_time_s": 1791.0
+  },
+  "change_vs_lawnmower_pct": {
+    "energy": -0.4,
+    "delay": -13.2,
+    "time": -4.1
+  },
+  "change_vs_greedy_pct": {
+    "energy": -5.1,
+    "delay": -17.2,
+    "time": -2.3
+  }
+}

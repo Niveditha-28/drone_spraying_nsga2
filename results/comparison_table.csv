@@ -1,0 +1,7 @@
+Strategy,Energy (Wh),Weighted delay (s),Mission time (s)
+Lawnmower strips (baseline),1630.79,916.93,1825.4
+Greedy nearest-neighbour (baseline),1712.48,960.94,1790.98
+NSGA-II: min energy,1616.7,831.54,1746.81
+NSGA-II: min weighted delay,1753.57,686.17,1775.17
+NSGA-II: min mission time,1658.64,789.74,1731.1
+NSGA-II: RECOMMENDED (knee),1624.63,795.59,1750.31
