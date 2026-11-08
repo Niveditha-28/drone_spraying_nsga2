@@ -4,7 +4,11 @@
 
 > Agriculture | Evolutionary multi-objective optimisation | Python, pymoo, Google Colab
 
-**Team:** `<Name 1, Reg. No.>`, `<Name 2, Reg. No.>`  |  **Course:** `<Course name / code>`  |  **Institution:** `<College>`
+**Team:** Niveditha S(RA2411047010028), Krishna Priya K U(RA2411047010045)|
+
+**Course:** Evolutionary Computing |  
+
+**Institution:** SRM Institute of Science and Technology
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/drone_spraying_nsga2.ipynb)
 
@@ -27,7 +31,8 @@ The field is split into 35 sprayable zones. We must decide **which drone sprays 
 * **Coverage path planning** for robots and UAVs is surveyed by Galceran and Carreras (2013). Classic strip (lawnmower) sweeps are the standard farm practice and our first baseline.
 * **Vehicle routing / multiple travelling salesmen:** assigning locations to several vehicles and ordering them is the multi-TSP / vehicle routing family (Dantzig and Ramser, 1959), which is NP-hard, so metaheuristics are widely used.
 * **Multi-objective evolutionary algorithms:** NSGA-II (Deb et al., 2002) uses non-dominated sorting and crowding distance and is a widely used method for problems with conflicting objectives (Coello Coello et al., 2007).
-* *(Add 3-5 recent drone-spraying / UAV path planning papers from Google Scholar here.)*
+* A. García-Munguía, P. L. Guerra-Ávila, E. Islas-Ojeda, J. L. Flores-Sánchez, O. Vázquez-Martínez, A. M. García-Munguía, and O. García-Munguía, “A review of drone technology and operation processes in agricultural crop spraying,” Drones, vol. 8, no. 11, Art. no. 674, 2024, doi: 10.3390/drones8110674.
+* A. Hafeez, M. A. Husain, S. P. Singh, A. Chauhan, M. T. Khan, N. Kumar, A. Chauhan, and S. K. Soni, “Implementation of drone technology for farm monitoring & pesticide spraying: A review,” Information Processing in Agriculture, vol. 10, no. 2, pp. 192–203, 2023, doi: 10.1016/j.inpa.2022.02.002.
 
 ## 3. Methodology
 
