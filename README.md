@@ -73,8 +73,8 @@ The field is split into 35 sprayable zones. We must decide **which drone sprays 
 
 **Locally:**
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Niveditha-28/drone_spraying_nsga2.git
+cd drone_spraying_nsga2
 pip install -r requirements.txt
 jupyter notebook drone_spraying_nsga2.ipynb
 ```
